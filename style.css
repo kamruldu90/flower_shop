@@ -1,6 +1,31 @@
 *{
     font-family: Lato;
+    margin: 0px;
+    padding: ;
 }
+
+.container_head{
+    display: flex;
+    padding: 40px;
+    align-items: center;
+    background-color: rgba(229, 82, 114, .2);
+    justify-content: space-between;
+}
+
+.head1{
+    padding-left: 100px;
+}
+
+.banner-head{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.banner-para{
+    padding-top: 25px;
+    line-height: 30px;
+}
+
 
 
 
