@@ -1,0 +1,26 @@
+*{
+    font-family: Lato;
+}
+
+
+
+/* footer styles */
+.foot1{
+    text-align: center;
+    color: white;
+    height: 450px;
+    background-color: #111010;
+}
+
+.foot-head{
+    padding-top: 130px;
+}
+
+.footspan{
+    color: #E55473;
+}
+
+.copyright{
+    font-size: 12px;
+    color: gray;
+}
