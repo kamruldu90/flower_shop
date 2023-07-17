@@ -91,6 +91,22 @@
     padding: 50px;
 }
 
+.latest-deal-container{
+    background-image: url('Rectangle 9.png');
+    height: 450px;
+    background-repeat: no-repeat;
+    margin: 150px;
+}
+
+.latest-deal-1{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.form-style{
+    height: 55px;
+    width: 700px;
+}
 
 
 
