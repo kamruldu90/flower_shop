@@ -7,7 +7,7 @@
     display: flex;
     padding: 40px;
     align-items: center;
-    background-color: rgba(229, 82, 114, .2);
+    background-color: rgba(229, 82, 114, .05);
     justify-content: space-between;
 }
 
@@ -64,6 +64,29 @@
     background-color: rgba(39, 39, 39, .5);
     margin: 240px;
     height: 320px;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.hot-deal{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 200px;
+    background-color: rgba(229, 84, 115, .05);
+}
+
+.instagram{
+    padding-top: 50px;
+}
+
+.instagram-text{
+    text-align: center;
+}
+
+.instagram-images{
+    display: flex;
     justify-content: space-between;
     padding: 50px;
 }
